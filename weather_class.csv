@@ -1,0 +1,61 @@
+Weather_Condition,Heavy Rain,Light Rain,Heavy Wind,Light Wind,Heavy Snow,Light Snow,Heavy Storm,Light Storm,Heavy Thunder,Light Thunder,Fog
+Clear,0,0,0,0,0,0,0,0,0,0,0
+Overcast,0,0,0,0,0,0,0,0,0,0,0
+Mostly Cloudy,0,0,0,0,0,0,0,0,0,0,0
+Partly Cloudy,0,0,0,0,0,0,0,0,0,0,0
+Scattered Clouds,0,0,0,0,0,0,0,0,0,0,0
+Fair,0,0,0,0,0,0,0,0,0,0,0
+Light Rain,0,1,0,0,0,0,0,0,0,0,0
+Cloudy,0,0,0,0,0,0,0,0,0,0,0
+Light Snow,0,0,0,0,0,1,0,0,0,0,0
+Haze,0,0,0,0,0,0,0,0,0,0,1
+Rain,0,1,0,0,0,0,0,0,0,0,0
+Fog,0,0,0,0,0,0,0,0,0,0,1
+Light Drizzle,0,1,0,0,0,0,0,0,0,0,0
+Light Thunderstorms and Rain,0,1,0,0,0,0,0,1,0,1,0
+Heavy Rain,1,0,0,0,0,0,0,0,0,0,0
+Snow,0,0,0,0,0,1,0,0,0,0,0
+Cloudy / Windy,0,0,0,1,0,0,0,0,0,0,0
+Fair / Windy,0,0,0,1,0,0,0,0,0,0,0
+Light Freezing Rain,0,1,0,0,0,0,0,0,0,0,0
+Thunderstorm,0,0,0,0,0,0,0,1,0,1,0
+Thunderstorms and Rain,0,1,0,0,0,0,0,0,0,1,0
+Heavy Thunderstorms and Rain,1,0,0,0,0,0,0,0,1,0,0
+Light Rain with Thunder,0,1,0,0,0,0,0,0,0,1,0
+Mist,0,0,0,0,0,0,0,0,0,0,1
+Mostly Cloudy / Windy,0,0,0,1,0,0,0,0,0,0,0
+T-Storm,0,0,0,0,0,0,0,1,0,1,0
+Drizzle,0,1,0,0,0,0,0,0,0,0,0
+Light Freezing Drizzle,0,1,0,0,0,0,0,0,0,0,0
+Light Snow / Windy,0,0,0,1,0,1,0,0,0,0,0
+Partly Cloudy / Windy,0,0,0,1,0,0,0,0,0,0,0
+Heavy Snow,0,0,0,0,1,0,0,0,0,0,0
+Light Freezing Fog,0,0,0,0,0,0,0,0,0,0,1
+Light Rain / Windy,0,1,0,1,0,0,0,0,0,0,0
+Thunder in the Vicinity,0,0,0,0,0,0,0,0,0,1,0
+Thunder,0,0,0,0,0,0,0,0,0,1,0
+Wintry Mix,0,0,0,0,0,1,0,0,0,0,0
+Heavy T-Storm,0,0,0,0,0,0,1,0,1,0,0
+Light Ice Pellets,0,0,0,0,0,1,0,0,0,0,0
+Blowing Snow,0,0,0,0,1,0,0,0,0,0,0
+Rain / Windy,0,1,0,1,0,0,0,0,0,0,0
+Smoke,0,0,0,0,0,0,0,0,0,0,1
+Shallow Fog,0,0,0,0,0,0,0,0,0,0,1
+Snow / Windy,0,0,0,1,0,1,0,0,0,0,0
+T-Storm / Windy,0,0,0,1,0,0,0,1,0,1,0
+Heavy Drizzle,1,0,0,0,0,0,0,0,0,0,0
+Light Thunderstorms and Snow,0,0,0,0,0,1,0,1,0,1,0
+Heavy T-Storm / Windy,0,0,1,0,0,0,1,0,1,0,0
+Light Drizzle / Windy,0,1,0,1,0,0,0,0,0,0,0
+Small Hail,0,0,0,0,0,1,0,0,0,0,0
+Fog / Windy,0,0,0,1,0,0,0,0,0,0,1
+Haze / Windy,0,0,0,1,0,0,0,0,0,0,1
+Light Rain Showers,0,1,0,0,0,0,0,0,0,0,0
+N/A Precipitation,0,0,0,0,0,0,0,0,0,0,0
+Patches of Fog,0,0,0,0,0,0,0,0,0,0,1
+Squalls,1,0,0,0,0,0,0,0,0,0,0
+Thunder / Windy,0,0,0,1,0,0,0,0,0,1,0
+Wintry Mix / Windy,0,0,0,1,0,0,0,0,0,0,0
+Heavy Rain / Windy,1,0,1,0,0,0,0,0,0,0,0
+Snow and Sleet,0,0,0,0,0,1,0,0,0,0,0
+Squalls / Windy,1,0,0,1,0,0,0,0,0,0,0
