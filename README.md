@@ -1,4 +1,4 @@
-# Prediction of severity in car accident in the U.S.
+# Prediction of severity in car accidents
 	
 In this project, I built a classification model to predict serious car accident in the U.S. To do this, I used “US Accidents A Countrywide Traffic Accident Dataset (2016 - 2019)” in Kaggle dataset. (https://www.kaggle.com/sobhanmoosavi/us-accidents) This dataset contains 2974335 observations about car accidents from February 2016 to December 2019 across entire U.S. This data sets give us severity of car accidents along with more than 40 variables such as location, weather, conditions.  
     Using this data set, I attempted to present answer to the question:  
